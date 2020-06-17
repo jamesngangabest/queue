@@ -1,7 +1,7 @@
 # queue
 customers,patients etc queue management system
 <p align='center'>
-<img width='20%' src='https://fqms.github.io/images/favicon.png' />
+<img width='20%' src='https://github.com/jamesngangabest/queue/blob/master/logoj.png' />
 </p>
 
 <p align='center'>
